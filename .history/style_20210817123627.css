@@ -10,17 +10,10 @@ h2 {
 
 h1 {
   font-size: 3.75rem;
-  margin-top: 0;
 }
 
 h2 {
   font-size: 2.625rem;
-  margin-top: 0;
-  border-top: solid 1px #c4c4c4;
-  border-bottom: solid 1px #c4c4c4;
-
-  padding: 20px 0;
-  margin-bottom: 20px;
 }
 
 h3 {
@@ -33,13 +26,21 @@ h2 span {
   display: block;
 }
 
-p {
-  margin-bottom: 0;
-}
-
 header,
 section {
   padding: 6.25rem 0;
+}
+
+header {
+  background-color: #d7d7d7;
+}
+
+.about-me {
+  background-color: #ffeaea;
+}
+
+.projects {
+  background-color: #eaf9ff;
 }
 
 .small-text {
@@ -49,7 +50,7 @@ section {
 .container {
   width: 570px;
   margin: 0 auto;
-  /* border: 1px solid red; */
+  border: 1px solid red;
   text-align: center;
   font-family: "Roboto", sans-serif;
 }
@@ -57,13 +58,4 @@ section {
 .my-photo {
   max-width: 50%;
   height: auto;
-  /* border: 5px solid white; */
-}
-
-.inverse {
-  background-color: #252525;
-  color: #fff;
-}
-.about-me {
-  background-color: #ffeaea;
 }
