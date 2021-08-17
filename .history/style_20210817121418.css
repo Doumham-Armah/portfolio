@@ -54,10 +54,3 @@ header {
   text-align: center;
   font-family: "Roboto", sans-serif;
 }
-
-.my-photo {
-  max-width: 50%;
-  height: auto;
-
-  /* border-radius: 50% 50% 0 0;  */
-}

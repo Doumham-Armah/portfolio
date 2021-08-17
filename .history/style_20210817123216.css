@@ -57,7 +57,9 @@ header {
 
 .my-photo {
   max-width: 50%;
-  height: auto;
-
-  /* border-radius: 50% 50% 0 0;  */
+  /* height: auto; */
+  height:600px; 
+  width:600px; 
+}
+  border-radius: 50% 50% 0 0;
 }

@@ -26,23 +26,6 @@ h2 span {
   display: block;
 }
 
-header,
-section {
-  padding: 6.25rem 0;
-}
-
-header {
-  background-color: #d7d7d7;
-}
-
-.about-me {
-  background-color: #ffeaea;
-}
-
-.projects {
-  background-color: #eaf9ff;
-}
-
 .small-text {
   font-size: 16px;
 }
@@ -53,11 +36,4 @@ header {
   border: 1px solid red;
   text-align: center;
   font-family: "Roboto", sans-serif;
-}
-
-.my-photo {
-  max-width: 50%;
-  height: auto;
-
-  /* border-radius: 50% 50% 0 0;  */
 }

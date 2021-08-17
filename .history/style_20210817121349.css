@@ -28,7 +28,6 @@ h2 span {
 
 header,
 section {
-  padding: 6.25rem 0;
 }
 
 header {
@@ -53,11 +52,4 @@ header {
   border: 1px solid red;
   text-align: center;
   font-family: "Roboto", sans-serif;
-}
-
-.my-photo {
-  max-width: 50%;
-  height: auto;
-
-  /* border-radius: 50% 50% 0 0;  */
 }
